@@ -1,0 +1,8 @@
+/* Example CSS styles */
+#widget-container {
+    position: relative;
+}
+
+#widget-trigger {
+    cursor: pointer;
+}
